@@ -60,7 +60,7 @@
   cursor: pointer;
 }
 
-/* .input-box input::-webkit-calendar-picker-indicator {
+.input-box input::-webkit-calendar-picker-indicator {
   top: 0;
   left: 0;
   right: 0;
@@ -70,8 +70,10 @@
   position: absolute;
   background-color: calc(100% -10px);
   background-size: 30px;
+  margin-left: 90%;
+  margin-top: 3%;
   cursor: pointer;
-} */
+}
 
 #result {
   font-size: 20px;
@@ -80,7 +82,7 @@
 #result span {
   color: #ffff76;
 }
-#cr{
-    /* background-color: red; */
-    margin-left: 92%;
-  }
+
+#cr {
+  margin-left: 92%;
+}

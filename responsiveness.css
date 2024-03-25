@@ -3,6 +3,7 @@
     width: 90%;
     margin-left: 5%;
   }
+
   .input-box button {
     background: #ffff76;
     border: 0;
@@ -13,9 +14,10 @@
     color: #333;
     cursor: pointer;
   }
-  #cr{
-    /* background-color: red; */
+
+  #cr {
+
     margin-left: 72%;
-    color:#ffff76;;
+    color: #ffff76;
   }
 }
