@@ -1,0 +1,21 @@
+@media only screen and (min-width: 400px) and (max-width: 450px) {
+  .calculator {
+    width: 90%;
+    margin-left: 5%;
+  }
+  .input-box button {
+    background: #ffff76;
+    border: 0;
+    outline: 0;
+    padding: 15px 5px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #333;
+    cursor: pointer;
+  }
+  #cr{
+    /* background-color: red; */
+    margin-left: 72%;
+    color:#ffff76;;
+  }
+}
